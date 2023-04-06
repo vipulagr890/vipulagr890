@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vipul085" target="blank"><img src="https://img.shields.io/twitter/follow/vipul085?logo=twitter&style=for-the-badge" alt="vipul085" /></a> </p>
 
-- 💬 Ask me about **React, next & node**
+- 💬 Ask me about **React, Angular, next & node**
 
 - 📫 How to reach me **gvipul890@gmail.com**
 
